@@ -18,7 +18,7 @@
 #define BOOSTTIMER_H_
 
 #include "Timer.h"
-#include <boost/chrono/chrono.hpp>
+#include <boost/chrono.hpp>
 
 namespace CppSpec {
 
